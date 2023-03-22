@@ -27,7 +27,7 @@
         dominant-baseline='auto'
         x='0%' text-anchor='start'>
         <textPath xlink:href='#path0'>
-            Hi, I&#039;m John Rico Tresvalles
+            Hi, I&#039;m Haze Morales
         </textPath>
     </text>
         <path id='path1'>
