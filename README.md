@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, I'm Haze Morales</h1>
-
 <!-- https://github.com/DenverCoder1/readme-typing-svg/ -->
 <svg xmlns='http://www.w3.org/2000/svg'
     xmlns:xlink='http://www.w3.org/1999/xlink'
@@ -44,6 +42,10 @@
         </textPath>
     </text>
 </svg>
+
+<h1 align="center">Hi 👋, I'm Haze Morales</h1>
+
+
 <h3 align="center">A passionate frontend developer from Philippines</h3>
 <h5>Diploma in Certified Information Systems Security Professional(CISSP 2019)</h5>
 <h6>Credential ID 1447-26332020</h6>
