@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&color=32CD32&size=22&center=true&vCenter=true&width=500&height=60&lines=Hi%2C+I'm Haze Morales!;I am a passionate front end developer+is+my+README+file.;Welcome+to+my+GitHub+profile.+" />
-</p>
 
 
 <h1 align="center">Hi 👋, I'm Haze Morales</h1>
