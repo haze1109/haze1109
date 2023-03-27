@@ -4,16 +4,7 @@
 <h1 align="center">Hi 👋, I'm Haze Morales</h1>
 <h3 align="center">A passionate frontend developer from Philippines</h3>
 
-<h5>Diploma in Certified Information Systems Security Professional (CISSP 2019)</h5>
-<h6>Credential ID 1447-26332020</h6>
-<h5>Diploma in Ethical Hacking</h5>
-<h6>Credential ID 2274-26332020</h6>
-<h5>File Security Associate</h5>
-<h6>Credential ID rz7srrorhqqb</h6>
-<h5>Computer Networking-Digital Network Security</h5>
-<h6>Credential ID 1447-26332020</h6>
-<h5>Salamat sa DIOS</h5>
-
+<h5>Salamat po sa DIOS</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haze1109&label=Profile%20views&color=0e75b6&style=flat" alt="haze1109" /> </p>
 
