@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **hazemorales11@gmail.com**
 
-- ⚡ Fun fact **"As a passionate fan of ecommerce, I am deeply interested in creating top-notch websites and apps for online businesses. I have a strong desire to build seamless and user-friendly ecommerce platforms that provide exceptional shopping experiences to customers."**
+- ⚡ Fun fact **"Im a fan of ecommerce"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
