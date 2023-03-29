@@ -1,10 +1,12 @@
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Haze+Morales;A+passionate+Web+developer+from+PH)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+Welcome+to+my+Github;I'm+a+passionate+Web+developer)
 
 <h1 align="center">Hi 👋, I'm Haze Morales</h1>
-<h3 align="center">A passionate frontend developer from Philippines</h3>
+<h3 align="center">To God be the glory</h3>
 
-<h5>Salamat po sa DIOS</h5>
+<a href="https://github.com/ricafortSNJ/MP2-HardwareStore">Mini Project 1 link</a> <br>
+<a href="https://github.com/ricafortSNJ/MP2-HardwareStore">Mini Project 2 link</a> <br>
+<a href="https://github.com/ricafortSNJ/MP2-HardwareStore">Capstone link</a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haze1109&label=Profile%20views&color=0e75b6&style=flat" alt="haze1109" /> </p>
 
