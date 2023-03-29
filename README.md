@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Haze Morales</h1>
 <h3 align="center">To God be the glory</h3>
 
-<a href="https://github.com/ricafortSNJ/MP2-HardwareStore">Mini Project 1 link</a> <br>
+<a href="https://haze1109.github.io/deploy_test/">Mini Project 1 link</a> <br>
 <a href="https://github.com/ricafortSNJ/MP2-HardwareStore">Mini Project 2 link</a> <br>
 <a href="https://github.com/ricafortSNJ/MP2-HardwareStore">Capstone link</a>
 
