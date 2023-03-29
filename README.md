@@ -6,7 +6,7 @@
 
 <a href="https://haze1109.github.io/deploy_test/">Mini Project 1 link</a> <br>
 <a href="https://github.com/ricafortSNJ/MP2-HardwareStore">Mini Project 2 link</a> <br>
-<a href="https://github.com/ricafortSNJ/MP2-HardwareStore">Capstone link</a>
+<a href="https://github.com/BlukissGithub/JobHives-Webite">Capstone link</a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haze1109&label=Profile%20views&color=0e75b6&style=flat" alt="haze1109" /> </p>
 
