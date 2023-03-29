@@ -1,5 +1,5 @@
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+Welcome+to+my+Github;I'm+a+passionate+Web+developer)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+Welcome+to+my+Github;Salamat+po+sa+Dios)
 
 <h1 align="center">Hi 👋, I'm Haze Morales</h1>
 <h3 align="center">To God be the glory</h3>
