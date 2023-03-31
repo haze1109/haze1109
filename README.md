@@ -13,7 +13,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haze1109" alt="haze1109" /></a> </p>
 
-- 🌱 I’m currently learning **Front-end and back-end**
+- 🌱 I’m currently learning **UI/UX**
 
 - 📫 How to reach me **hazemorales11@gmail.com**
 
